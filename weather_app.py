@@ -1,4 +1,5 @@
 # Project_Name:- Weather app using Weather Api requests module
+# Note:- This weather app is used to find weather condition
 #weather api website https://openweathermap.org/
 #weather Api Login credientials:-
 # username:- roopasathe1995@gmail.com
