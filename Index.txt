@@ -1,2 +1,2 @@
 This project is all about to find weather condition of any city.
-Today i am just checking out my project is working gitor not ,,,,
+Today i am just checking out my project is working or not ,,,,
